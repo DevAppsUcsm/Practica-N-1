@@ -1,4 +1,8 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="Ejercicio_Lab_01.WebForm1" %>
+﻿<!--*********************
+* CODIGO        	   	: WebForm1.aspx
+* AUTOR                	: Arnold Olanda Muñoz 
+**********************-->
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm1.aspx.cs" Inherits="Ejercicio_Lab_01.WebForm1" %>
 
 <!DOCTYPE html>
 
